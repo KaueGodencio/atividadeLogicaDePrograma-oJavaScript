@@ -1,2 +1,2 @@
-# atividadeLogicaDePrograma-oJavaScript
+# atividadeLogicaDeProgramação-oJavaScript
 Atividade JavaScript
