@@ -1,4 +1,4 @@
-# atividadeLogicaDeProgramação-oJavaScript
+# atividadeLogicaDeProgramacao-oJavaScript
 Atividade JavaScript
 
 Criterios para desenvolvimento:
